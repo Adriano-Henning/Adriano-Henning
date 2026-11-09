@@ -28,7 +28,7 @@ Uso este espaço para registrar o que estou aprendendo e para construir, projeto
 ```
 
 <details>
-<summary>🇺🇸 English</summary>
+<summary>English</summary>
 
 <br />
 
@@ -94,8 +94,8 @@ Meus primeiros projetos estão em desenvolvimento e serão publicados aqui em br
 
 <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adriano-Henning&theme=github_dark" alt="Atividade de contribuições" />
 
-<img width="345" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adriano-Henning&theme=github_dark" alt="Estatísticas do GitHub" />
-<img width="345" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adriano-Henning&theme=github_dark" alt="Linguagens mais usadas" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adriano-Henning&theme=github_dark" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adriano-Henning&theme=github_dark" alt="Linguagens mais usadas" />
 
 <img width="700" src="https://streak-stats.demolab.com?user=Adriano-Henning&locale=pt_BR&hide_border=true&background=0D1117&ring=C9D1D9&fire=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="Sequência de contribuições" />
 
