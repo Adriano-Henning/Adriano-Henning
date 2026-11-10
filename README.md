@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=600&height=50&lines=ADRIANO+HENNING" alt="Adriano Henning" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=600&height=50&lines=ADRIANO+HENNING+JUNIOR" alt="Adriano Henning Junior" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=%3E+Engenharia+de+Software;%3E+Rumo+a+Analise+de+Dados;%3E+Aprendendo+um+commit+por+vez" alt="Engenharia de Software · Análise de Dados" />
 
