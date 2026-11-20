@@ -2,12 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=600&height=50&lines=ADRIANO+HENNING+JUNIOR" alt="Adriano Henning Junior" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=%3E+Engenharia+de+Software;%3E+Rumo+a+Analise+de+Dados;%3E+Aprendendo+um+commit+por+vez" alt="Engenharia de Software · Análise de Dados" />
-
 <br />
 
 <img src="https://img.shields.io/badge/STATUS-ESTUDANDO-161b22?style=flat-square&labelColor=30363d" alt="Status: estudando" />
-<img src="https://img.shields.io/badge/FOCO-AN%C3%81LISE_DE_DADOS-161b22?style=flat-square&labelColor=30363d" alt="Foco: Análise de Dados" />
+<img src="https://img.shields.io/badge/FOCO-AN%C3%81LISE_DE_DADOS_E_DESENVOLVIMENTO-161b22?style=flat-square&labelColor=30363d" alt="Foco: Análise de Dados e Desenvolvimento" />
 <img src="https://img.shields.io/badge/OBJETIVO-EST%C3%81GIO-161b22?style=flat-square&labelColor=30363d" alt="Objetivo: estágio" />
 
 </div>
@@ -22,7 +20,7 @@ Uso este espaço para registrar o que estou aprendendo e para construir, projeto
 
 ```text
 > curso ........ Engenharia de Software
-> foco ......... Análise de Dados
+> foco ......... Análise de Dados e Desenvolvimento
 > interesses ... desenvolvimento de software, tecnologia
 > objetivo ..... estágio em dados ou desenvolvimento
 ```
